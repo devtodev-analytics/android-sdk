@@ -14,4 +14,4 @@ Check out our [official documentation](https://www.devtodev.com/help/35/android/
 
 Changelog
 ---------
-See [wiki page](https://www.devtodev.com/downloads/more/2).
+See [releases](https://github.com/devtodev-analytics/android-sdk/releases/).
