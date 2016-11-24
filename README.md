@@ -16,6 +16,12 @@ Changelog
 ---------
 See [releases](https://github.com/devtodev-analytics/android-sdk/releases/).
 
+#### Version 1.9
+* Migration to FCM protocol for push processing. Previous GCM will no longer be supported.
+* Added interactivity to push-notifications: buttons, sharing, URLs, deeplinks, sound control.
+* Distribution of SDK in AAR package, in addition to the JAR to simplify the integration.
+* Ability to send "quiet push-notifications"
+
 #### Version 1.8.1
 * Added possibility to generate several progression events within one session
 
