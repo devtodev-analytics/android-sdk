@@ -1,6 +1,6 @@
 Latest Version 
 --------------
-##### _Oct 27st, 2016_ - v1.9
+##### _Oct 27st, 2016_ - [v1.9](https://github.com/devtodev-analytics/android-sdk/releases/latest)
 
 ```
 dependencies {
