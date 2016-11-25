@@ -10,7 +10,7 @@ dependencies {
 
 Getting Started
 ---------------
-Check out our [official documentation](https://www.devtodev.com/help/35/android/) to learn how to install the library on your IDE. You will also learn how to make use of all the features we currently support!
+Full description of the integration process of devtodev SDK and all the accessible features can be found on the page with [official devtodev documentation](https://www.devtodev.com/help/39).
 
 Changelog
 ---------
