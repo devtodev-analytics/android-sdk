@@ -1,10 +1,10 @@
 Latest Version 
 --------------
-##### _Mar 7st, 2017_ - [v1.10.1](https://github.com/devtodev-analytics/android-sdk/releases/latest)
+##### _Apr 19th, 2017_ - [v1.10.2](https://github.com/devtodev-analytics/android-sdk/releases/latest)
 
 ```
 dependencies {
-    compile 'com.devtodev:sdk:1.10.1'
+    compile 'com.devtodev:sdk:1.10.2'
 }
 ```
 
