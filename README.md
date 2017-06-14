@@ -4,7 +4,7 @@ Latest Version
 
 ```
 dependencies {
-    compile 'com.devtodev:sdk:1.11.1'
+    compile 'com.devtodev:android:1.11.1'
 }
 ```
 
