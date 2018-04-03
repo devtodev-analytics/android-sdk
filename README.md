@@ -4,7 +4,7 @@ Latest Version
 
 ```
 dependencies {
-    compile 'com.devtodev:android:1.12.2'
+    implementation 'com.devtodev:android:1.12.2'
 }
 ```
 
