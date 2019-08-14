@@ -1,10 +1,10 @@
 Latest Version 
 --------------
-##### _Apr_ 7th, 2019_ - [v1.13.9](https://github.com/devtodev-analytics/android-sdk/releases/latest)
+##### _Aug_ 14th, 2019_ - [v1.13.10](https://github.com/devtodev-analytics/android-sdk/releases/latest)
 
 ```
 dependencies {
-    implementation 'com.devtodev:android:1.13.9'
+    implementation 'com.devtodev:android:1.13.10'
 }
 ```
 
