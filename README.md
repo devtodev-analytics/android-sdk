@@ -1,11 +1,10 @@
 Latest Version
 --------------
-##### _June 7, 2021_ - [v1.14.9](https://github.com/devtodev-analytics/android-sdk/releases/latest)
+##### _June 24, 2021_ - [v1.14.10](https://github.com/devtodev-analytics/android-sdk/releases/latest)
 
 ```
-Attention! At the moment, SDK version 1.14.9 is only available on GitHub,
-because the Bintray services we used before are terminated.
-In the near future, we will find an alternative service.
+If you use Gradle, please add mavenCentral() into gradle.build of your application
+and then add the line “implementation com.devtodev:android:1.14.10” into dependencies.
 ```
 
 Getting Started
