@@ -1,10 +1,10 @@
 Latest Version
 --------------
-##### _June 24, 2021_ - [v1.14.10](https://github.com/devtodev-analytics/android-sdk/releases/latest)
+##### _October 1, 2021_ - [v1.15.0](https://github.com/devtodev-analytics/android-sdk/releases/latest)
 
 ```
 If you use Gradle, please add mavenCentral() into gradle.build of your application
-and then add the line “implementation com.devtodev:android:1.14.10” into dependencies.
+and then add the line “implementation com.devtodev:android:1.15.0” into dependencies.
 ```
 
 Getting Started
