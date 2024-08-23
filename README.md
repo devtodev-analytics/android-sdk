@@ -2,6 +2,9 @@ Latest Version
 --------------
 ##### _October 1, 2021_ - [v1.15.0](https://github.com/devtodev-analytics/android-sdk/releases/latest)
 
+**This generation of the SDK is deprecated and is no longer supported.**
+You can find the current version here: https://github.com/devtodev-analytics/android-sdk-2.0
+
 ```
 If you use Gradle, please add mavenCentral() into gradle.build of your application
 and then add the line “implementation com.devtodev:android:1.15.0” into dependencies.
